@@ -1,0 +1,13 @@
+Group_Attribute,Group,Records,Actual_Attack_Rate,Predicted_Attack_Rate,Fairness_Score
+browser_type,Unknown,116,0.7672,0.7328,0.9655
+browser_type,Safari,148,0.3919,0.2905,0.8986
+browser_type,Edge,357,0.465,0.3585,0.8936
+browser_type,Chrome,1277,0.4221,0.3062,0.8841
+browser_type,Firefox,487,0.4394,0.2957,0.8563
+encryption_used,DES,704,0.4474,0.3423,0.8949
+encryption_used,AES,1209,0.4367,0.3251,0.8883
+protocol_type,ICMP,107,0.3645,0.2897,0.9252
+protocol_type,UDP,594,0.4512,0.3367,0.8855
+protocol_type,TCP,1684,0.4507,0.3325,0.8818
+unusual_time_access,0,2032,0.4498,0.3371,0.8873
+unusual_time_access,1,353,0.4306,0.3003,0.8697

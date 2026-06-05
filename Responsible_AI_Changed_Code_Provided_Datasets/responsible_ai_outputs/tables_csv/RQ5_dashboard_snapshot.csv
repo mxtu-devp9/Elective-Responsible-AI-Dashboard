@@ -1,0 +1,7 @@
+Dashboard_Card,Value
+Model Accuracy,88.47%
+Fairness Score,89.42%
+Latest Drift Score,0.0043
+Explainability Score,99.14%
+Sustainability/Compliance,90.83%
+Overall Risk Score,6.64/100 (Low Risk)

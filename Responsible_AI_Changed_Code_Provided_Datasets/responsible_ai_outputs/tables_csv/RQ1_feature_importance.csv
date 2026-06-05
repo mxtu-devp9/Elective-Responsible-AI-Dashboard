@@ -1,0 +1,11 @@
+Feature,Importance
+failed_logins,0.4143
+login_attempts,0.2944
+ip_reputation_score,0.2066
+browser_type_Unknown,0.0367
+session_duration,0.0195
+network_packet_size,0.0125
+unusual_time_access,0.0026
+browser_type_Chrome,0.0023
+browser_type_Edge,0.0017
+encryption_used_AES,0.0016

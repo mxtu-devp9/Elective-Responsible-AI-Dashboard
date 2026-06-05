@@ -1,0 +1,7 @@
+Governance_Metric,Score,Interpretation
+Explainability,99.14,Higher is better
+Fairness,89.42,Higher is better
+Stability,88.47,Higher is better
+Drift Control,98.93,Higher is better
+Sustainability/Compliance,90.83,Higher is better
+Overall Risk,6.64,Low Risk
